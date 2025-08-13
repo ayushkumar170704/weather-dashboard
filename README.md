@@ -18,6 +18,8 @@ A modern, responsive weather dashboard that provides real-time weather informati
 [View Live Demo](https://your-username.github.io/weather-dashboard) *(Replace with your actual GitHub Pages URL)*
 
 ## 📸 Screenshots
+<img width="1920" height="1080" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/18daeea8-1e7a-41ca-a684-5582bda56fa9" />
+
 
 
 
